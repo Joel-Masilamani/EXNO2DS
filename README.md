@@ -1,6 +1,3 @@
-2
-
-
 # EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -28,8 +25,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ## CODING AND OUTPUT
 
 REG NO: 212224220043
-NAME  : JOEL MASILAMANI A
-
+NAME  : Joel Masilamani A
 
 import pandas as pd
 import numpy as np
